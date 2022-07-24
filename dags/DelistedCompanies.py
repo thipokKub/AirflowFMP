@@ -40,9 +40,6 @@ def delisted_update_daily_dag():
             if not is_success:
                 break
             curr_page += 1
-
-            if curr_page >= 3: # For testing
-                logger(f"[Delisted Companies] - Daily early exit", is_debug=True)
             
         logger(f"[Delisted Companies] - Daily update complete", is_debug=False)
     
