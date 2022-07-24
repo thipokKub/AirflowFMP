@@ -1,0 +1,702 @@
+[
+    {
+        "symbol": "MIC",
+        "companyName": "Macquarie Infrastructure Holdings LLC",
+        "exchange": "NYSE",
+        "ipoDate": "2004-12-16",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "DDG",
+        "companyName": "ProShares Short Oil & Gas",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2008-06-18",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "JPNL",
+        "companyName": "DIREXION DAILY MSCI JAPAN BULL 3X SHARES ",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2013-06-26",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "GASX",
+        "companyName": "DIREXION DAILY NATURAL GAS RELATED BEAR 3X SHARES ",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2015-12-03",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "PVG",
+        "companyName": "Pretium Resources Inc",
+        "exchange": "NYSE",
+        "ipoDate": "2011-03-03",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "MBT",
+        "companyName": "Mobile Telesystems PJSC",
+        "exchange": "NYSE",
+        "ipoDate": "2000-06-30",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "BSCL",
+        "companyName": "INVESCO BULLETSHARES 2021 CORPORATE BOND ETF ",
+        "exchange": "NASDAQ",
+        "ipoDate": "2013-07-17",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "MBAY",
+        "companyName": "Mediabay Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2017-09-29",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "IBBJ",
+        "companyName": "DEFIANCE NASDAQ JUNIOR BIOTECHNOLOGY ETF ",
+        "exchange": "NASDAQ",
+        "ipoDate": "2020-08-04",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "SBM",
+        "companyName": "ProShares Short Basic Materials",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2010-03-18",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "CHL",
+        "companyName": "China Mobile Ltd",
+        "exchange": "NYSE",
+        "ipoDate": "1997-10-22",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "CHU",
+        "companyName": "China Unicom (Hong Kong) Ltd",
+        "exchange": "NYSE",
+        "ipoDate": "2000-06-21",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "CYPS",
+        "companyName": "Cyclo3pss Corp",
+        "exchange": "NASDAQ",
+        "ipoDate": "2007-07-16",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "CROC",
+        "companyName": "ProShares UltraShort Australian Dollar",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2012-07-19",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "LBJ",
+        "companyName": "DIREXION DAILY LATIN AMERICA BULL 3X SHARES ",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2009-12-03",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "SUBZ",
+        "companyName": "Roundhill Streaming Services & Technology ETF",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2021-02-10",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "KNL",
+        "companyName": "Knoll Inc",
+        "exchange": "NYSE",
+        "ipoDate": "2004-12-14",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "ARD",
+        "companyName": "Ardagh Group S.A. - Class A",
+        "exchange": "NYSE",
+        "ipoDate": "2017-03-15",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "HYACU",
+        "companyName": "biote Corp - Units (1 Ord Share Class A & 1/4 War)",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-03-02",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "IFMK",
+        "companyName": "iFresh Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2017-02-01",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "LN",
+        "companyName": "Line Corporation",
+        "exchange": "NYSE",
+        "ipoDate": "2016-07-14",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "FPAC-U",
+        "companyName": "Far Point Acquisition Corp - Units (1 Cls A Ord & 1/3 War)",
+        "exchange": "NYSE",
+        "ipoDate": "2018-06-12",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "VEDL",
+        "companyName": "Vedanta Ltd",
+        "exchange": "NYSE",
+        "ipoDate": "2007-06-20",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "MVP",
+        "companyName": "Roundhill Pro Sports Media & Apparel ETF",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2021-03-17",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "CEO",
+        "companyName": "Cnooc Ltd",
+        "exchange": "NYSE",
+        "ipoDate": "2001-02-27",
+        "delistedDate": "2022-07-21"
+    },
+    {
+        "symbol": "PSB",
+        "companyName": "PS Business Parks Inc",
+        "exchange": "NYSE",
+        "ipoDate": "1991-03-27",
+        "delistedDate": "2022-07-20"
+    },
+    {
+        "symbol": "SINV",
+        "companyName": "ETFMG Prime 2X Daily Inverse Junior Silver Miners ETF -2x Shares",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2021-06-16",
+        "delistedDate": "2022-07-20"
+    },
+    {
+        "symbol": "EPAY",
+        "companyName": "Bottomline Technologies (Delaware) Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "1999-02-12",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "ITHX",
+        "companyName": "ITHAX Acquisition Corp - Class A",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-03-24",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "XENT",
+        "companyName": "Intersect ENT Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2014-07-24",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "CDK",
+        "companyName": "CDK Global Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2014-09-24",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "CCMP",
+        "companyName": "CMC Materials Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2000-04-05",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "HMHC",
+        "companyName": "Houghton Mifflin Harcourt Company",
+        "exchange": "NASDAQ",
+        "ipoDate": "2013-11-14",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "MCFE",
+        "companyName": "McAfee Corp - Class A",
+        "exchange": "NASDAQ",
+        "ipoDate": "2020-10-22",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "TVTY",
+        "companyName": "Tivity Health Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "1991-08-13",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "ECOL",
+        "companyName": "US Ecology Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "1990-03-26",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "JOBS",
+        "companyName": "51Job Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2004-09-29",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "ISBC",
+        "companyName": "Investors Bancorp Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2005-10-12",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "CERN",
+        "companyName": "Cerner Corp",
+        "exchange": "NASDAQ",
+        "ipoDate": "1990-03-26",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "MIME",
+        "companyName": "Mimecast Ltd",
+        "exchange": "NASDAQ",
+        "ipoDate": "2015-11-19",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "ZNGA",
+        "companyName": "Zynga Inc - Class A",
+        "exchange": "NASDAQ",
+        "ipoDate": "2011-12-16",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "GTYH",
+        "companyName": "GTY Technology Holdings Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2016-11-18",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "TSC",
+        "companyName": "Tristate Capital Holdings Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2013-05-09",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "DISCK",
+        "companyName": "Warner Bros. Discovery Inc - Series C",
+        "exchange": "NASDAQ",
+        "ipoDate": "2008-09-18",
+        "delistedDate": "2022-07-19"
+    },
+    {
+        "symbol": "ITHXW",
+        "companyName": "ITHAX Acquisition Corp - Warrants (31/12/2027)",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-03-22",
+        "delistedDate": "2022-07-18"
+    },
+    {
+        "symbol": "GSLD",
+        "companyName": "Global Ship Lease Inc",
+        "exchange": "NYSE",
+        "ipoDate": "2019-11-22",
+        "delistedDate": "2022-07-15"
+    },
+    {
+        "symbol": "AWTM",
+        "companyName": "AWTM Ultra-Short Duration Enhanced Income ETF",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2019-01-29",
+        "delistedDate": "2022-07-15"
+    },
+    {
+        "symbol": "HHH",
+        "companyName": "ETFMG Real Estate Tech ETF",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2021-10-20",
+        "delistedDate": "2022-07-15"
+    },
+    {
+        "symbol": "SAK",
+        "companyName": "Saratoga Investment Corp",
+        "exchange": "NYSE",
+        "ipoDate": "2020-06-30",
+        "delistedDate": "2022-07-13"
+    },
+    {
+        "symbol": "DNAC",
+        "companyName": "Social Capital Suvretta Holdings Corp III - Class A",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-06-30",
+        "delistedDate": "2022-07-11"
+    },
+    {
+        "symbol": "AVDG",
+        "companyName": "AVDR US LargeCap ESG ETF",
+        "exchange": "BATS",
+        "ipoDate": "2020-12-30",
+        "delistedDate": "2022-07-11"
+    },
+    {
+        "symbol": "ETTX",
+        "companyName": "Entasis Therapeutics Holdings Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2018-09-26",
+        "delistedDate": "2022-07-11"
+    },
+    {
+        "symbol": "AVDR",
+        "companyName": "AVDR US LargeCap Leading ETF",
+        "exchange": "BATS",
+        "ipoDate": "2020-12-30",
+        "delistedDate": "2022-07-11"
+    },
+    {
+        "symbol": "MNMD",
+        "companyName": "MINIMED INC",
+        "exchange": "NASDAQ",
+        "ipoDate": "2022-07-06",
+        "delistedDate": "2022-07-08"
+    },
+    {
+        "symbol": "FRGE-WS",
+        "companyName": "Forge Global Holdings Inc - Warrants (31/12/2027)",
+        "exchange": "NYSE",
+        "ipoDate": "2021-02-01",
+        "delistedDate": "2022-07-08"
+    },
+    {
+        "symbol": "GGGVU",
+        "companyName": "G3 VRM Acquisition Corp - Units (1 Ord Class A & 1 Rts)",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-07-01",
+        "delistedDate": "2022-07-06"
+    },
+    {
+        "symbol": "GGGVR",
+        "companyName": "G3 VRM Acquisition Corp",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-08-17",
+        "delistedDate": "2022-07-06"
+    },
+    {
+        "symbol": "GGGV",
+        "companyName": "G3 VRM Acquisition Corp - Class A",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-08-17",
+        "delistedDate": "2022-07-06"
+    },
+    {
+        "symbol": "SRRA",
+        "companyName": "Sierra Oncology Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2015-07-16",
+        "delistedDate": "2022-07-01"
+    },
+    {
+        "symbol": "COHR",
+        "companyName": "Coherent Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "1990-03-26",
+        "delistedDate": "2022-07-01"
+    },
+    {
+        "symbol": "WLL",
+        "companyName": "Whiting Petroleum Corp (New)",
+        "exchange": "NYSE",
+        "ipoDate": "2020-09-02",
+        "delistedDate": "2022-07-01"
+    },
+    {
+        "symbol": "TRDF",
+        "companyName": "The NextGen Trend and Defend ETF",
+        "exchange": "BATS",
+        "ipoDate": "2022-01-06",
+        "delistedDate": "2022-07-01"
+    },
+    {
+        "symbol": "PCOM",
+        "companyName": "Points.com Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2011-02-10",
+        "delistedDate": "2022-06-30"
+    },
+    {
+        "symbol": "NSEC",
+        "companyName": "National Security Group Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "1990-03-30",
+        "delistedDate": "2022-06-30"
+    },
+    {
+        "symbol": "PBIP",
+        "companyName": "Prudential Bancorp Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2005-03-30",
+        "delistedDate": "2022-06-30"
+    },
+    {
+        "symbol": "CHNG 6",
+        "companyName": "Change Healthcare Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2019-06-27",
+        "delistedDate": "2022-06-29"
+    },
+    {
+        "symbol": "TREC",
+        "companyName": "Trecora Resources",
+        "exchange": "NYSE",
+        "ipoDate": "2006-07-31",
+        "delistedDate": "2022-06-27"
+    },
+    {
+        "symbol": "JP",
+        "companyName": "Jupai Holdings Ltd",
+        "exchange": "NYSE",
+        "ipoDate": "2015-07-16",
+        "delistedDate": "2022-06-27"
+    },
+    {
+        "symbol": "VFIN",
+        "companyName": "Simplify Volt Fintech Disruption ETF",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2020-12-29",
+        "delistedDate": "2022-06-24"
+    },
+    {
+        "symbol": "BDRL",
+        "companyName": "Blonder Tongue Laboratories Inc",
+        "exchange": "NYSE MKT",
+        "ipoDate": "1995-12-19",
+        "delistedDate": "2022-06-24"
+    },
+    {
+        "symbol": "VPOP",
+        "companyName": "Simplify Volt Pop Culture Disruption ETF",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2020-12-29",
+        "delistedDate": "2022-06-24"
+    },
+    {
+        "symbol": "APTS",
+        "companyName": "Preferred Apartment Communities Inc - Class A",
+        "exchange": "NYSE MKT",
+        "ipoDate": "2011-04-01",
+        "delistedDate": "2022-06-23"
+    },
+    {
+        "symbol": "SUMR",
+        "companyName": "Summer Infant Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2007-03-07",
+        "delistedDate": "2022-06-22"
+    },
+    {
+        "symbol": "PLAN",
+        "companyName": "Anaplan Inc",
+        "exchange": "NYSE",
+        "ipoDate": "2018-10-12",
+        "delistedDate": "2022-06-22"
+    },
+    {
+        "symbol": "NTZO",
+        "companyName": "Impact Shares MSCI Global Climate Select ETF",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2021-11-03",
+        "delistedDate": "2022-06-21"
+    },
+    {
+        "symbol": "CPTAG",
+        "companyName": "Logan Ridge Finance Corporation",
+        "exchange": "NASDAQ",
+        "ipoDate": "2017-06-02",
+        "delistedDate": "2022-06-21"
+    },
+    {
+        "symbol": "IRCP",
+        "companyName": "Irsa Propiedades Comerciales S.A.",
+        "exchange": "NASDAQ",
+        "ipoDate": "2003-11-05",
+        "delistedDate": "2022-06-21"
+    },
+    {
+        "symbol": "CPTAL",
+        "companyName": "Logan Ridge Finance Corporation",
+        "exchange": "NASDAQ",
+        "ipoDate": "2017-05-23",
+        "delistedDate": "2022-06-21"
+    },
+    {
+        "symbol": "LUB",
+        "companyName": "Luby`s Inc",
+        "exchange": "NYSE",
+        "ipoDate": "1985-07-01",
+        "delistedDate": "2022-06-21"
+    },
+    {
+        "symbol": "BBLN-WS",
+        "companyName": "Babylon Holdings Ltd - Warrants (21/10/2026)",
+        "exchange": "NYSE",
+        "ipoDate": "2021-10-22",
+        "delistedDate": "2022-06-21"
+    },
+    {
+        "symbol": "VGII-U",
+        "companyName": "Grove Collaborative Holdings Inc - Units (1 Ord Share Class A & 1/5 War)",
+        "exchange": "NYSE",
+        "ipoDate": "2021-03-23",
+        "delistedDate": "2022-06-16"
+    },
+    {
+        "symbol": "OACB",
+        "companyName": "Oaktree Acquisition Corp II - Class A",
+        "exchange": "NYSE",
+        "ipoDate": "2020-11-09",
+        "delistedDate": "2022-06-15"
+    },
+    {
+        "symbol": "OACB-U",
+        "companyName": "Oaktree Acquisition Corp II - Units (1 Ord Share Class A & 1/4 War)",
+        "exchange": "NYSE",
+        "ipoDate": "2020-09-17",
+        "delistedDate": "2022-06-15"
+    },
+    {
+        "symbol": "GBBKU",
+        "companyName": "Global Blockchain Acquisition Corp - Units (1 Ord Class A 1 Right & 1 War)",
+        "exchange": "NASDAQ",
+        "ipoDate": "2022-05-10",
+        "delistedDate": "2022-06-15"
+    },
+    {
+        "symbol": "OACB-WS",
+        "companyName": "Oaktree Acquisition Corp II - Warrants (15/09/2027)",
+        "exchange": "NYSE",
+        "ipoDate": "2020-11-09",
+        "delistedDate": "2022-06-15"
+    },
+    {
+        "symbol": "TCACU",
+        "companyName": "SpringBig Holdings Inc - Units (1 Ord Share Class A & 1/2 War)",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-02-12",
+        "delistedDate": "2022-06-14"
+    },
+    {
+        "symbol": "TCAC",
+        "companyName": "SpringBig Holdings Inc - Class A",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-04-06",
+        "delistedDate": "2022-06-14"
+    },
+    {
+        "symbol": "DIVA",
+        "companyName": "AGFiQ Hedged Dividend Income Fund",
+        "exchange": "NYSE ARCA",
+        "ipoDate": "2015-01-15",
+        "delistedDate": "2022-06-13"
+    },
+    {
+        "symbol": "GLAQ",
+        "companyName": "Globis Acquisition Corp",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-02-05",
+        "delistedDate": "2022-06-09"
+    },
+    {
+        "symbol": "TACA-WS",
+        "companyName": "Trepont Acquisition Corp I - Warrants (24/11/2025)",
+        "exchange": "NYSE",
+        "ipoDate": "2021-01-22",
+        "delistedDate": "2022-06-09"
+    },
+    {
+        "symbol": "TACA",
+        "companyName": "Trepont Acquisition Corp I - Class A",
+        "exchange": "NYSE",
+        "ipoDate": "2021-01-22",
+        "delistedDate": "2022-06-09"
+    },
+    {
+        "symbol": "GLAQU",
+        "companyName": "Globis Acquisition Corp - Unit (1 Ordinary share & 1 Wrt)",
+        "exchange": "NASDAQ",
+        "ipoDate": "2020-12-11",
+        "delistedDate": "2022-06-09"
+    },
+    {
+        "symbol": "GLAQW",
+        "companyName": "Globis Acquisition Corp - Warrants (01/11/2025)",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-02-05",
+        "delistedDate": "2022-06-09"
+    },
+    {
+        "symbol": "DYNS",
+        "companyName": "Senti Biosciences Inc Class A",
+        "exchange": "NASDAQ",
+        "ipoDate": "2021-05-26",
+        "delistedDate": "2022-06-08"
+    },
+    {
+        "symbol": "CAS-U",
+        "companyName": "Cascade Acquisition Corp - Units (1 Ord Share Class A & 1/2 War)",
+        "exchange": "NYSE",
+        "ipoDate": "2020-11-20",
+        "delistedDate": "2022-06-07"
+    },
+    {
+        "symbol": "ZME",
+        "companyName": "Zhangmen Education Inc",
+        "exchange": "NYSE",
+        "ipoDate": "2021-06-08",
+        "delistedDate": "2022-06-03"
+    },
+    {
+        "symbol": "OCA",
+        "companyName": "Omnichannel Acquisition Corp - Class A",
+        "exchange": "NYSE",
+        "ipoDate": "2021-01-12",
+        "delistedDate": "2022-05-31"
+    },
+    {
+        "symbol": "OCA-WS",
+        "companyName": "Omnichannel Acquisition Corp - Warrants (30/12/2027)",
+        "exchange": "NYSE",
+        "ipoDate": "2021-01-12",
+        "delistedDate": "2022-05-31"
+    },
+    {
+        "symbol": "CMPI",
+        "companyName": "Checkmate Pharmaceuticals Inc",
+        "exchange": "NASDAQ",
+        "ipoDate": "2020-08-07",
+        "delistedDate": "2022-05-31"
+    },
+    {
+        "symbol": "OCA-U",
+        "companyName": "Omnichannel Acquisition Corp - Units (1 Ord Class A & 1/2 War)",
+        "exchange": "NYSE",
+        "ipoDate": "2020-11-20",
+        "delistedDate": "2022-05-31"
+    }
+]
