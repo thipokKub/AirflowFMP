@@ -27,3 +27,12 @@ To run the system, make sure docker is running, and for Apple Silicon users `col
 - To start, run `run.sh` script
 - To stop, run `stop.sh` script
 - To reset data, run `purge.sh` script
+
+To start project from scratch run
+
+- `init.sh` > `run.sh`
+- If there is a problem you might want to restart the process, by running `stop.sh` > `run.sh`
+- But if nothing works, the `run.sh` script is just a docker-compose command, and error can be debug by using
+
+    ```docker-compose --env-file .env.dev up --build```
+
